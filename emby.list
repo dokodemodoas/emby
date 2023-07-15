@@ -1,8 +1,8 @@
-#Nebula
+# Nebula
 DOMAIN-SUFFIX,web.nebula-emby.com
 # Misakaf
 DOMAIN-SUFFIX,emby.misakaf.org
-#Orange
+# Orange
 DOMAIN-SUFFIX,cf.embytv.cf
 # Peach
 DOMAIN-SUFFIX,embymv.tk
@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,cf.jmsooo.com
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org
+# 野兽制会员餐厅
+DOMAIN-SUFFIX,emby.mius.uk
