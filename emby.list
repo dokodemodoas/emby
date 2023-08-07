@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,mulgore.net
 #Dolphin
 DOMAIN-SUFFIX,public.emby.ws
+# 星光
+DOMAIN-SUFFIX,free.emby.eu.org
+DOMAIN-SUFFIX,9wfree.emby.eu.org
 # 剧狗
 DOMAIN-SUFFIX,ju.dog
 # 卷毛鼠
