@@ -1,11 +1,5 @@
 # Misakaf
 DOMAIN-SUFFIX,cdn.misakaf.org
-# Nebula
-DOMAIN-SUFFIX,direct.nebula-emby.com
-# Tank
-DOMAIN-SUFFIX,tank66.top
-DOMAIN-SUFFIX,tank88.top
-#Orange
-DOMAIN-SUFFIX,cdn.otv.icu
-DOMAIN-SUFFIX,cdn-gia.otv.icu
+# Orange
+DOMAIN-SUFFIX,cf.otv.icu
 
